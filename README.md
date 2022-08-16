@@ -1,3 +1,5 @@
+Node Version - v16.15.1
+
 Database - Mongodb
 
 ORM - Mongoose
